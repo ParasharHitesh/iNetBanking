@@ -1,7 +1,0 @@
-inetBanking\testCases\TC_Login_DD.class
-inetBanking\utlities\XLutils.class
-inetBanking\pageObjects\loginPage.class
-inetBanking\utlities\Reporting.class
-inetBanking\testCases\BaseClass.class
-inetBanking\testCases\TC_LoginTest_001.class
-inetBanking\utlities\ReadConfig.class

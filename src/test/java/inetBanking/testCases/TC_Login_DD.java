@@ -1,3 +1,4 @@
+
 package inetBanking.testCases;
 
 import java.io.IOException;
@@ -53,7 +54,7 @@ public class TC_Login_DD extends BaseClass {
 		String path=System.getProperty("user.dir")+"/src/test/java/inetBanking/testData/loginData.xlsx";
 	
 	int rownum=XLutils.getRowCount(path,"sheet1");
-	int colcount=XLutils.getCellCount(path,"sheet1",1);
+	int colcount=XLutils.getCellCount(path,"sheet1",1);  // 1 is written coz system will read col of first row
 	
 	String loginData [][]=new String [rownum][colcount];
 	

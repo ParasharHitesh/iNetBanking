@@ -7,14 +7,14 @@ import org.openqa.selenium.support.PageFactory;
 
 public class loginPage {
 	
-	WebDriver ldriver;
+	WebDriver driver;
 	
-	public loginPage(WebDriver rdriver) {
+	public loginPage(WebDriver driver) {
 		
-		ldriver=rdriver;
-		PageFactory.initElements(rdriver,this);
-
-}
+		this.driver=driver;
+		PageFactory.initElements(driver,this);
+		
+} 
 	@FindBy(name="uid")
 	WebElement txtUserName;
 	

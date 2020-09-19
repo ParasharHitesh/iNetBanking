@@ -4,13 +4,13 @@
   <test thread-count="5" name="Banking test(failed)">
     <parameter name="browser" value="chrome"/>
     <classes>
-      <class name="inetBanking.testCases.TC_LoginTest_001">
+      <class name="inetBanking.testCases.TC_Regis">
         <methods>
+          <include name="RegisterTest"/>
           <include name="setup"/>
           <include name="tearDown"/>
-          <include name="loginTest"/>
         </methods>
-      </class> <!-- inetBanking.testCases.TC_LoginTest_001 -->
+      </class> <!-- inetBanking.testCases.TC_Regis -->
     </classes>
   </test> <!-- Banking test(failed) -->
 </suite> <!-- Failed suite [inetBanking] -->
