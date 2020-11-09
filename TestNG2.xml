@@ -11,9 +11,9 @@
       
       
        <class name="inetBanking.testCases.TC_Regis"/>
-      
-      
-      
+      <class name="inetBanking.testCases.TC_Login_DD"/>
+      <class name="inetBanking.testCases.TC_LoginTest_001"/>
+       <class name="inetBanking.testCases.Parameterization"/>
     </classes>
   </test> <!-- Default test -->
 </suite> <!-- Default suite -->

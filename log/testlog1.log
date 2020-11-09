@@ -192,3 +192,39 @@
 2020-08-31 23:16:55,885 [main] INFO ebanking - Entered Password
 2020-08-31 23:17:04,137 [main] INFO ebanking - Clicked Submit
 2020-08-31 23:17:04,197 [main] INFO ebanking - Login Test Passed
+2020-09-20 10:49:09,823 [main] INFO ebanking - Entered username
+2020-09-20 10:49:10,176 [main] INFO ebanking - Entered Password
+2020-09-20 10:49:12,234 [main] INFO ebanking - Clicked Submit
+2020-09-20 10:56:20,653 [main] INFO ebanking - Entered username
+2020-09-20 10:56:21,035 [main] INFO ebanking - Entered Password
+2020-09-20 10:56:23,686 [main] INFO ebanking - Clicked Submit
+2020-09-20 10:56:24,001 [main] INFO ebanking - Login Test Passed
+2020-09-20 11:06:59,943 [TestNG-test=Banking test-1] INFO ebanking - Entered username
+2020-09-20 11:07:00,365 [TestNG-test=Banking test-1] INFO ebanking - Entered Password
+2020-09-20 11:07:04,194 [TestNG-test=Banking test-1] INFO ebanking - Clicked Submit
+2020-09-20 11:07:04,644 [TestNG-test=Banking test-1] INFO ebanking - Login Test Passed
+2020-09-24 12:12:36,688 [TestNG-test=Banking test-1] INFO ebanking - Entered username
+2020-09-24 12:12:36,939 [TestNG-test=Banking test-1] INFO ebanking - Entered Password
+2020-09-24 12:12:41,856 [TestNG-test=Banking test-1] INFO ebanking - Clicked Submit
+2020-09-24 12:12:46,350 [TestNG-test=Banking test-1] INFO ebanking - Login Test Passed
+2020-10-08 14:02:46,282 [TestNG-test=Banking test-1] INFO ebanking - Entered username
+2020-10-08 14:02:46,678 [TestNG-test=Banking test-1] INFO ebanking - Entered Password
+2020-10-08 14:02:49,867 [TestNG-test=Banking test-1] INFO ebanking - Clicked Submit
+2020-10-08 14:02:49,906 [TestNG-test=Banking test-1] INFO ebanking - Login Test Passed
+2020-10-25 16:48:14,334 [TestNG-test=Banking test-1] INFO ebanking - Entered username
+2020-10-25 16:48:14,916 [TestNG-test=Banking test-1] INFO ebanking - Entered Password
+2020-10-25 16:48:16,258 [TestNG-test=Banking test-1] INFO ebanking - Clicked Submit
+2020-10-25 16:52:19,412 [TestNG-test=Banking test-1] INFO ebanking - Entered username
+2020-10-25 16:52:20,264 [TestNG-test=Banking test-1] INFO ebanking - Entered Password
+2020-10-25 16:52:25,595 [TestNG-test=Banking test-1] INFO ebanking - Clicked Submit
+2020-10-25 16:52:25,949 [TestNG-test=Banking test-1] INFO ebanking - Login Test Passed
+2020-10-25 19:40:41,011 [TestNG-test=Banking test-2] INFO ebanking - Entered username
+2020-10-25 19:40:41,476 [TestNG-test=Banking test-2] INFO ebanking - Entered Password
+2020-10-25 19:48:19,284 [TestNG-test=Banking test-1] INFO ebanking - Entered username
+2020-10-25 19:48:19,605 [TestNG-test=Banking test-1] INFO ebanking - Entered Password
+2020-10-25 19:48:22,265 [TestNG-test=Banking test-1] INFO ebanking - Clicked Submit
+2020-10-25 19:48:22,316 [TestNG-test=Banking test-1] INFO ebanking - Login Test Passed
+2020-10-25 19:54:58,469 [TestNG-test=Banking test-1] INFO ebanking - Entered username
+2020-10-25 19:54:58,779 [TestNG-test=Banking test-1] INFO ebanking - Entered Password
+2020-10-25 19:55:01,675 [TestNG-test=Banking test-1] INFO ebanking - Clicked Submit
+2020-10-25 19:55:01,713 [TestNG-test=Banking test-1] INFO ebanking - Login Test Passed

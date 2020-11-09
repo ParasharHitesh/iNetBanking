@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
-<suite name="inetBanking">
+<suite name="inetBanking" parallel="classes" thread-count="1">
 
 <listeners>
  <listener class-name="inetBanking.utlities.Reporting"/>
@@ -12,8 +12,8 @@
   <test name="Banking test" verbose="2">
   <parameter name="browser" value="chrome" />
     <classes>
-       <class name="inetBanking.testCases.TC_LoginTest_001"/>
-       <class name="inetBanking.testCases.TC_Login_DD"/>
+       
+      <class name="inetBanking.testCases.TC_Login_DD"/>
       
       
       
